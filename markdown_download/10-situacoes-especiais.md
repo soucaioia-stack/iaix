@@ -144,11 +144,11 @@ RESPOSTA LITERAL:
 
 "O contato da central do Sempre Odonto fica atras da sua carteirinha do convenio, tanto na versao fisica quanto na digital. Voce pode ligar la e solicitar o Pass Card. Se seu dentista for credenciado, ele tambem pode solicitar pra voce."
 
-## GUIA FISICA CORREIO
+## GUIA FISICA OBRIGATORIA
 
 HAPVIDA ou INPAO:
 
-"Pelo [convenio], precisamos receber a guia fisica original por correio para processar o exame."
+"Pelo [convenio], precisamos da guia fisica original para processar o exame. Voce pode trazer em maos ou enviar via correio."
 
 ## CLIENTE PEDE ATENDENTE
 

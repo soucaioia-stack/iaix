@@ -27,8 +27,8 @@ PROTOCOLO QUANDO CLIENTE DIZ "DENTISTA JÁ LANÇOU" ou "NÃO PRECISA GUIA":
 
 ### CONVÊNIOS QUE EXIGEM GUIA FÍSICA EM PAPEL
 
-- HAPVIDA - Guia via CORREIO
-- INPAO - Papel timbrado + guia física via CORREIO
+- HAPVIDA - Guia física (em mãos ou via correio)
+- INPAO - Papel timbrado + guia física (em mãos ou via correio)
 - PRODENTAL BRASIL - Papel timbrado + guia física (validade 30 dias)
 
 ## DETALHAMENTO COMPLETO DE CONVÊNIOS
@@ -36,8 +36,8 @@ PROTOCOLO QUANDO CLIENTE DIZ "DENTISTA JÁ LANÇOU" ou "NÃO PRECISA GUIA":
 | Convênio | Exames Aceitos | Exames NÃO Aceitos | Guia por Foto | Observações Especiais |
 |----------|----------------|-------------------|---------------|----------------------|
 | AMIL (inclui MEDIAL, SANTANDER) | TODOS | Nenhum | SIM | Se cliente diz "dentista já lançou/não precisa guia" Coletar dados + TRANSFERIR. Aceita assinaturas digitais validadas pelo portal gov.br |
-| HAPVIDA | Apenas Panorâmica | Documentação, Tomografia, Periapical, Levantamento, Carpal, ATM, Telerradiografia, Moldagem, Fotos, Escaneamento, Modelo | NÃO (correio) | Guia física via CORREIO. Restrição temporária |
-| INPAO | TODOS | Nenhum | NÃO (correio) | Papel timbrado + guia física via CORREIO |
+| HAPVIDA | Apenas Panorâmica | Documentação, Tomografia, Periapical, Levantamento, Carpal, ATM, Telerradiografia, Moldagem, Fotos, Escaneamento, Modelo | NÃO (física) | Guia física obrigatória (em mãos ou via correio). Restrição temporária |
+| INPAO | TODOS | Nenhum | NÃO (física) | Papel timbrado + guia física obrigatória (em mãos ou via correio) |
 | METLIFE | Documentação, Panorâmica, Tomografia, Levantamento, Carpal, ATM, Telerradiografia, Moldagem, Fotos, Escaneamento, Modelo | Periapical, Interproximal, Bite Wing | SIM | Periapical consultar central do convênio (ordem do convênio) |
 | ODONTOPREV (inclui BRADESCO, BBDENTAL, PRIVIAN) | TODOS | Nenhum | SIM | Se disser só "Odonto" perguntar qual. BRADESCO SAÚDE: Aceita assinaturas digitais validadas pelo portal gov.br |
 | PORTO SEGURO ODONTOLÓGICO | Documentação, Panorâmica, Periapical, Levantamento, Carpal, ATM, Telerradiografia, Moldagem, Fotos, Escaneamento, Modelo | Tomografia | SIM | Se cliente diz "dentista já lançou/não precisa guia" Coletar dados + TRANSFERIR. Não habilitado para Tomografia. Se mencionar "Porto Seguro Saúde" Não aceitamos convênio médico |
