@@ -148,7 +148,7 @@ RESPOSTA LITERAL:
 
 HAPVIDA ou INPAO:
 
-"Pelo [convenio], precisamos da guia fisica original para processar o exame. Voce pode trazer em maos ou enviar via correio."
+"Pelo [convenio], precisamos da guia fisica original para processar o exame."
 
 ## CLIENTE PEDE ATENDENTE
 
