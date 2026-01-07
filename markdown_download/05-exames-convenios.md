@@ -6,9 +6,9 @@
 
 IMPORTANTE: Alguns convênios aceitam guia digital/foto, outros EXIGEM guia física em papel.
 
-### CONVÊNIOS QUE ACEITAM GUIA DIGITAL (FOTO)
+### CONVÊNIOS QUE ACEITAM GUIA FÍSICA OU DIGITAL (FOTO)
 
-Os seguintes convênios permitem que o dentista lance a guia no sistema/portal do convênio e NÃO é necessário levar guia física em papel:
+Os seguintes convênios aceitam tanto guia física em papel quanto guia digital (foto/lançada no sistema):
 
 - AMIL (inclui MEDIAL, SANTANDER)
 - METLIFE
@@ -25,27 +25,27 @@ PROTOCOLO QUANDO CLIENTE DIZ "DENTISTA JÁ LANÇOU" ou "NÃO PRECISA GUIA":
 - Se SIM: Coletar dados do cliente (nome completo, CPF, data nascimento)
 - Transferir para atendente verificar no sistema
 
-### CONVÊNIOS QUE EXIGEM GUIA FÍSICA EM PAPEL
+### CONVÊNIOS QUE EXIGEM APENAS GUIA FÍSICA EM PAPEL
 
 - HAPVIDA - Guia física obrigatória
-- INPAO - Papel timbrado + guia física obrigatória
-- PRODENTAL BRASIL - Papel timbrado + guia física (validade 30 dias)
+- INPAO - Guia em papel timbrado obrigatória
+- PRODENTAL BRASIL - Guia em papel timbrado (validade 30 dias)
 
 ## DETALHAMENTO COMPLETO DE CONVÊNIOS
 
-| Convênio | Exames Aceitos | Exames NÃO Aceitos | Guia por Foto | Observações Especiais |
-|----------|----------------|-------------------|---------------|----------------------|
-| AMIL (inclui MEDIAL, SANTANDER) | TODOS | Nenhum | SIM | Se cliente diz "dentista já lançou/não precisa guia" Coletar dados + TRANSFERIR. Aceita assinaturas digitais validadas pelo portal gov.br |
-| HAPVIDA | Apenas Panorâmica | Documentação, Tomografia, Periapical, Levantamento, Carpal, ATM, Telerradiografia, Moldagem, Fotos, Escaneamento, Modelo | NÃO (física) | Guia física obrigatória. Restrição temporária |
-| INPAO | TODOS | Nenhum | NÃO (física) | Papel timbrado + guia física obrigatória |
-| METLIFE | Documentação, Panorâmica, Tomografia, Levantamento, Carpal, ATM, Telerradiografia, Moldagem, Fotos, Escaneamento, Modelo | Periapical, Interproximal, Bite Wing | SIM | Periapical consultar central do convênio (ordem do convênio) |
-| ODONTOPREV (inclui BRADESCO, BBDENTAL, PRIVIAN) | TODOS | Nenhum | SIM | Se disser só "Odonto" perguntar qual. BRADESCO SAÚDE: Aceita assinaturas digitais validadas pelo portal gov.br |
-| PORTO SEGURO ODONTOLÓGICO | Documentação, Panorâmica, Periapical, Levantamento, Carpal, ATM, Telerradiografia, Moldagem, Fotos, Escaneamento, Modelo | Tomografia | SIM | Se cliente diz "dentista já lançou/não precisa guia" Coletar dados + TRANSFERIR. Não habilitado para Tomografia. Se mencionar "Porto Seguro Saúde" Não aceitamos convênio médico |
-| REDE BRAZIL DENTAL (Prevident, Bio Oral, Pernambucanas, Wdental, Dental Seg, OdontoSeg, Pefisa, Quality, Pro Saude, Lis Dental, Presb) | Documentação, Panorâmica, Tomografia, Levantamento, Carpal, ATM, Telerradiografia, Moldagem, Fotos, Escaneamento, Modelo | Periapical, Interproximal, Bite Wing | SIM | Periapical consultar central do convênio (ordem do convênio). Se disser só "Odonto" perguntar qual. IMPORTANTE: Liberação não é imediata - requer autorização prévia de 72 horas |
-| REDE UNNA | Verificar com clínica | - | SIM | Se cliente diz "dentista já lançou/não precisa guia" Coletar dados + TRANSFERIR. EXIGÊNCIAS: Código GTO + Senha + Número de credenciado da IX (38777) |
-| SEMPRE ODONTO (inclui CAEDU) | TODOS | Nenhum | SIM | Exige Pass Card (autorização obrigatória) |
-| SULAMÉRICA | TODOS | Nenhum | SIM | Aceita assinaturas digitais validadas pelo portal gov.br |
-| PRODENTAL BRASIL | Verificar com clínica | - | NÃO (papel timbrado) | Exige guia em papel timbrado com validade de 30 dias |
+| Convênio | Exames Aceitos | Exames NÃO Aceitos | Guia Física ou Foto | Observações Especiais |
+|----------|----------------|-------------------|---------------------|----------------------|
+| AMIL (inclui MEDIAL, SANTANDER) | TODOS | Nenhum | AMBAS | Se cliente diz "dentista já lançou/não precisa guia" Coletar dados + TRANSFERIR. Aceita assinaturas digitais validadas pelo portal gov.br |
+| HAPVIDA | Apenas Panorâmica | Documentação, Tomografia, Periapical, Levantamento, Carpal, ATM, Telerradiografia, Moldagem, Fotos, Escaneamento, Modelo | APENAS FÍSICA | Guia física obrigatória. Restrição temporária |
+| INPAO | TODOS | Nenhum | APENAS FÍSICA | Guia em papel timbrado obrigatória |
+| METLIFE | Documentação, Panorâmica, Tomografia, Levantamento, Carpal, ATM, Telerradiografia, Moldagem, Fotos, Escaneamento, Modelo | Periapical, Interproximal, Bite Wing | AMBAS | Periapical consultar central do convênio (ordem do convênio) |
+| ODONTOPREV (inclui BRADESCO, BBDENTAL, PRIVIAN) | TODOS | Nenhum | AMBAS | Se disser só "Odonto" perguntar qual. BRADESCO SAÚDE: Aceita assinaturas digitais validadas pelo portal gov.br |
+| PORTO SEGURO ODONTOLÓGICO | Documentação, Panorâmica, Periapical, Levantamento, Carpal, ATM, Telerradiografia, Moldagem, Fotos, Escaneamento, Modelo | Tomografia | AMBAS | Se cliente diz "dentista já lançou/não precisa guia" Coletar dados + TRANSFERIR. Não habilitado para Tomografia. Se mencionar "Porto Seguro Saúde" Não aceitamos convênio médico |
+| REDE BRAZIL DENTAL (Prevident, Bio Oral, Pernambucanas, Wdental, Dental Seg, OdontoSeg, Pefisa, Quality, Pro Saude, Lis Dental, Presb) | Documentação, Panorâmica, Tomografia, Levantamento, Carpal, ATM, Telerradiografia, Moldagem, Fotos, Escaneamento, Modelo | Periapical, Interproximal, Bite Wing | AMBAS | Periapical consultar central do convênio (ordem do convênio). Se disser só "Odonto" perguntar qual. IMPORTANTE: Liberação não é imediata - requer autorização prévia de 72 horas |
+| REDE UNNA | Verificar com clínica | - | AMBAS | Se cliente diz "dentista já lançou/não precisa guia" Coletar dados + TRANSFERIR. EXIGÊNCIAS: Código GTO + Senha + Número de credenciado da IX (38777) |
+| SEMPRE ODONTO (inclui CAEDU) | TODOS | Nenhum | AMBAS | Exige Pass Card (autorização obrigatória) |
+| SULAMÉRICA | TODOS | Nenhum | AMBAS | Aceita assinaturas digitais validadas pelo portal gov.br |
+| PRODENTAL BRASIL | Verificar com clínica | - | APENAS FÍSICA | Exige guia em papel timbrado com validade de 30 dias |
 
 ## ATENÇÃO - PERIAPICAL EM CONVÊNIOS
 
